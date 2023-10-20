@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(128, 199, 240);
+}
+
+
+
+
+.photo{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+   
+}
+.letter{
+    font-size: 40px;
+    color: red;
+   text-align: center;
+}
+.age{
+    font-size: 30px;
+    text-align: center;
+   
+}
+.gender{
+    font-size: 26px;
+    text-align: center;
+}
+.city{
+    font-size: 26px;
+    text-align: center;
+}
+.country{
+   font-size: 26px;
+   text-align: center;
+}
+.email{
+    font-size: 26px;
+    text-align: center;
+}
+.phone{
+    font-size: 26px;
+    text-align: center;
+}
+.profile{
+    text-align: center;
+}
